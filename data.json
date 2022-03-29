@@ -1,0 +1,112 @@
+    [
+        { 
+      "company_name": "CodeInno", 
+      "title": "React.js Software Engineer",
+      "category": "Frontend",
+      "date_posted": "March 18",
+      "image": "https://rest.techbehemoths.com/storage/images/users/main/codeinno-logo-icon-2-6229f31549707-x2.png",
+      "description": "CodeInno gives a favorable environment for development & growth while providing an opportunity to work on various interesting projects with high-quality codes, a great chance to learn a lot of professional stuff (like Node.js GraphQL, MySQL, CI/CD) by our technical team leadership through coaching & mentorship.",
+      "url": "https://codeinno.com/careers/careers-react-js/",
+      "id": "",
+      "details": "Develop new user-facing features using React.js, integrate with Back End and various APIs. Communicate with the product owner, designer, developer, QA engineer, and others in order to understand the requirements and prioritize features and bugs. Translating designs and wireframes into high-quality code. Applying internal company standards."
+    },
+    { 
+      "company_name": "Upstatement", 
+      "title": "Engineer, CMS",
+      "category": "Frontend",
+      "date_posted": "March 18",
+      "image": "https://upstatement.com/wp-content/themes/upstatement/content/img/illustrations/values-illo-3.jpg",
+      "description": "Upstatement is looking for a talented engineer with a passion for content management to join our engineering team. The ideal candidate brings an editorial mindset to the challenges facing the news media and publishing industries. They have relevant experience developing custom content management solutions to improve the content authoring experience, streamline publishing workflows, and help teams of all shapes and sizes tell impactful stories on the web.",
+      "url": "https://upstatement.com/jobs/engineer-cms/",
+      "id": "",
+      "details": "2+ years of experience developing with popular Content Management Solutions (WordPress, Craft CMS, etc.). Experience with headless CMS’s (Contentful, Sanity) is nice but not required. Comfortable building custom themes and plugins from scratch, integrating with popular external tools like Mailchimp and Salesforce and optimizing the editor experience for a variety of publishing workflows."
+    },
+    { 
+      "company_name": "PickTrace", 
+      "title": "Software Engineer",
+      "category": "Full-Stack",
+      "date_posted": "March 27",
+      "image": "https://media-exp1.licdn.com/dms/image/C560BAQEoLH1mLCgFNg/company-logo_200_200/0/1519879358815?e=2147483647&v=beta&t=G67da3h49Z1L3uW2SW224j28ic7Bdz2Aaq7P4Ap7MpY",
+      "description": "We are PickTrace, an early-stage software start-up that provides workforce and harvest management solutions for large-scale farms. We are a YCombinator company that has raised $33M in Series B funding. We are building the farm management system of the future. Today, we serve some of the largest berry, citrus, and apple growers in the United States and internationally, and our application is used by tens of thousands of farmworkers each day.",
+      "url": "https://jobs.lever.co/picktrace/e3f9dced-52b2-4f2c-be5e-797546432f9b",
+      "id": "",
+      "details": "1+ years of experience in software development or recent graduates with a BS, MS, or PhD in Computer Science or related technical degree. Passionate about creating memorable experiences for customers, regardless of which part of the stack you work in. You love learning about new technologies, and still value using something older if it still functions. A drive to create well-structured and long-term maintainability of the codebase. "
+    },
+    { 
+      "company_name": "Insomniac Events", 
+      "title": "Front End Developer",
+      "category": "Frontend",
+      "date_posted": "March 27",
+      "image": "https://media-exp1.licdn.com/dms/image/C510BAQGHAmcTm1ZcbQ/company-logo_200_200/0/1519948540402?e=2147483647&v=beta&t=aibkyaW0pNzORB6ZqBPLMSOKs-ncvzIGZCU5FbCE6-U",
+      "description": "Insomniac produces some of the most innovative, immersive music festivals and events in the world. Enhanced by state-of-the-art lighting, pyrotechnics and sound design, large-scale art installations, theatrical performers and next generation special effects, our events captivate the senses and inspire a unique level of fan interaction.  The quality of the Headliner experience is our top priority.",
+      "url": "https://livenation.wd1.myworkdayjobs.com/en-US/InsomniacExternalSite/job/Calabasas-CA-USA/Insomniac---Front-End-Developer_JR-40579?source=Linkedin",
+      "id": "",
+      "details": "Must be proactive, adaptive, and a problem-solver with a keen eye for detail. Proficient in building web pages with HTML + CSS (or JSX). Proficient with vanilla JavaScript or ReactJS, both preferred. Experience with animations using CSS, JS, GSAP, React-spring or similar. 2D/3D in-browser rendering with Canvas, WebGL, three.js. Experience with Figma. Experience with Git (please include a link to your Github/Gitlab account or a portfolio site). Experience in mobile-first design. Understanding of key design principles. "
+    },
+    { 
+      "company_name": "Column", 
+      "title": "Software Engineer I, Public Notice",
+      "category": "Full-Stack",
+      "date_posted": "March 25",
+      "image": "https://media-exp1.licdn.com/dms/image/C560BAQFsQtujrH8gGA/company-logo_200_200/0/1639598224198?e=2147483647&v=beta&t=MN8ldmyudsmHz9HAAx3f-vWpzdNQ0YMFS1rJTeMR9Bs",
+      "description": "Column is looking to hire a mission-oriented technologist to join us as a full stack Software Engineer I on our Software Development, Public Notice team. The role will report directly to our Engineering Manager, Ayesha Khan. You're an ideal candidate if you get jazzed about building high impact features that solve real problems for local communities. You will work with React, Node.JS and Firebase to build out end-to-end features that provide tech-enabled workflows on our core public notice platform.",
+      "url": "https://boards.greenhouse.io/columnsoftware/jobs/4341566004?gh_src=888bf5d74us",
+      "id": "",
+      "details": "You're looking for a remote-first role working with wildly talented people who deeply care about their impact on local communities. You have experience as a professional software engineer working on cross-functional teams or multiple applicable internships with a Bachelor's or Master's degree in a relevant field (computer science, mathematics, data science). You have experience with React and Node.JS — Firebase is a plus, but not a requirement. You want to be a part of a team that prioritizes strong interpersonal communications skills and a continuous feedback culture. You thrive in a dynamic environment with rapidly evolving objectives and sometimes ambiguous requirements where you make decisions with minimal supervision. You're a business-focused technologist who gets excited not only about solving technical challenges, but also about being close to the business and go-to-market strategies. "
+      },
+    { 
+      "company_name": "Left Field Labs", 
+      "title": "Front End Developer",
+      "category": "Frontend",
+      "date_posted": "March 21",
+      "image": "https://media-exp1.licdn.com/dms/image/C560BAQFcLY1kT3_JEw/company-logo_200_200/0/1622574637617?e=2147483647&v=beta&t=XsDJ8ZiQCYmI8JvECBTVEGNgstyD75jjCX7ma4Td5co",
+      "description": "We are an experience design company that connects people, products, and brands in powerful ways. Our small but growing team of designers, developers, producers, strategists, and content creators is based in Culver City, California. We believe in the power of storytelling, human-centric design, and the intersection of creativity with code to further humanity's relationship with technology. If you're the kind of person who obsesses over details, thrives in a collaborative environment, and jumps at the opportunity to take on new challenges, Left Field Labs may be the place for you.",
+      "url": "https://leftfieldlabs.applytojob.com/apply/HsW7giUBrg",
+      "id": "",
+      "details": "2+ years of professional experience building web apps and UIs with dynamic content and modular components. Experience in JavaScript and modern web standards like ES6, HTML5 and CSS3. Experience building with modern JavaScript frameworks, especially Angular with Typescript."
+    },
+    { 
+      "company_name": "Paylocity", 
+      "title": "Software Engineer(E)",
+      "category": "Full-Stack",
+      "date_posted": "March 17",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQFHZSQx3-Jilg/company-logo_200_200/0/1643679879148?e=1656547200&v=beta&t=qZ2E9pe4eA13Eqvub6xekbHMk-v-bv8Xfy9XYmsOmjY",
+      "description": "As a member of one of our product teams, this person will be responsible for creating, enhancing, and supporting common features. Working side-by-side with Product Owners, Quality Assurance Engineers, and Business Stakeholders. Our Software Engineers are actively involved in the complete software development life cycle in an agile environment including technical design, hands-on coding, unit testing, performance tuning, maintenance, test automation, deploys, and upgrades.",
+      "url": "https://www.paylocity.com/careers/career-opportunities/product-and-technology/?jobId=11137",
+      "id": "",
+      "details": "Enthusiastic about developing the best software available and providing the ultimate customer experience. An advocate for continuous improvement of our software development process. Interested in staying current by applying new technologies. Able to work in a collaborative environment with a willingness to share your ideas. Able to work independently on modules and complete tasks with high quality and contribute to high velocity, but unafraid to seek out suggestions from other team members. Excited to work on cutting-edge technology."
+    },
+    { 
+      "company_name": "UpRoar Technologies", 
+      "title": "Back-End Software Engineer (Remote)",
+      "category": "Backend",
+      "date_posted": "March 27",
+      "image": "https://photos.angel.co/startups/i/8755366-a48dbdd4806478f5b7152afbdf8a0379-medium_jpg.jpg?buster=1645748929",
+      "description": "UpRoar Technologies is reimagining social media for a new generation. Founded by experienced technology leaders, our proprietary platform brings fans and influencers together in a safer environment that tackles bullying, misinformation and privacy concerns — empowering users to foster more meaningful relationships. UpRoar harnesses the power of pop culture to inspire and change the world — one fan at a time.",
+      "url": "https://uproartech-team.freshteam.com/jobs/weqDk6oBoQR8/back-end-software-engineer-remote",
+      "id": "",
+      "details": "BS or higher in Computer Science, Engineering, or a related field, or an equally (or more) compelling collection of life experiences. 5+ years of experience designing and managing complex applications. Advanced understanding of programming such as CSS, Java Script, TypeScript, Node and Python. Mobile native or cross-platform experience with Node, React Native and/or Flutter or similar frameworks and languages. Deep understanding of data structures, and database management systems such as PostgreSQL, MySQL, and AWS RDS and DynamoDB. Proven track record of building and deploying entire mobile platforms from scratch. Excellent knowledge of software engineering best practices (e.g. Agile software development, test-driven development, unit testing, code reviews, design documentation, etc…). Willingness and ability to own all stages of the development process: design, testing, implementation, operational support."
+    },
+    { 
+      "company_name": "Spotify", 
+      "title": "Backend Engineer Reliability",
+      "category": "Backend",
+      "date_posted": "March 27",
+      "image": "https://brandlogos.net/wp-content/uploads/2021/12/spotify-brandlogo.net_.png",
+      "description": "At Spotify our mission is to unlock the potential of human creativity by giving a million creators the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it. Our operation spans global datacenters and comprises one of the largest production Kubernetes installations in the world. In order to fulfill our mission, Core Infrastructure provides Spotify’s 2,000+ engineers a managed service platform to iterate faster, safely and at scale.",
+      "url": "https://www.lifeatspotify.com/jobs/backend-engineer-reliability",
+      "id": "",
+      "details": "You’ve shipped high-impact code and have demonstrated the ability to pragmatically take solutions from ideation to production. You demonstrate speciality in writing distributed, high-performing Java services and a strong understanding of systems design, data structures and algorithms. You understand and are excited about high-scale systems, and want to build thoughtful, long-term architecture. You are a strong communicator and collaborator and want to chip in to an ever-improving user experience built on partnerships with customers, product managers and engineering leadership."
+    },
+    { 
+      "company_name": "Spotify", 
+      "title": "Frontend Web Engineer Commerce",
+      "category": "Frontend",
+      "date_posted": "March 27",
+      "image": "https://brandlogos.net/wp-content/uploads/2021/12/spotify-brandlogo.net_.png",
+      "description": "The Freemium R&D team oversees the entire user journey on Spotify and ensures we engage with people in innovative ways, every step of the way. Our team grows Spotify’s audience by finding future listeners around the world and delivering the right value to them, at the right time. With research, product development, product design, engineering, and marketing all collaborating in one organization, we’re able to quickly create meaningful features and services for millions of people around the world, resulting in joyful, long-lasting relationships with Spotify.",
+      "url": "https://www.lifeatspotify.com/jobs/frontend-web-engineer-commerce",
+      "id": "",
+      "details": "You have experience or background in web development with Javascript/Typescript (React), HTML, and CSS. You are experienced in integrating APIs and client libraries used by multiple engineering teams and have worked with protocols like gRPC, REST GraphQL. You are comfortable building while product definition and designs are being determined. You like to build skills to further grow into data and backend engineering. You have a high-quality attitude and you aim to deliver clear and maintainable code. You value team success over personal success. You know and care about sound engineering practices like continuous delivery, defensive programming, and automated testing."
+    }
+  ]
